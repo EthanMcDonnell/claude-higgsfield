@@ -1,4 +1,4 @@
-# Higgsfield Seedance 2.0 — Claude Skills Setup Guide
+# Higgsfield Claude Integration Setup
 
 A collection of Claude skills for generating AI video prompts on [Higgsfield](https://higgsfield.ai) using Seedance 2.0. These skills help Claude craft production-grade prompts across 15 video styles — cinematic, 3D CGI, anime, fashion, food, real estate, and more.
 
